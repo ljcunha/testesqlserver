@@ -1,0 +1,23 @@
+{
+  "name": "testesqlserver",
+  "version": "1.0.0",
+  "description": "Testar a implementação da conexão com Ms-SqlServer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ljcunha/testesqlserver.git"
+  },
+  "author": "Leonardo Cunha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ljcunha/testesqlserver/issues"
+  },
+  "homepage": "https://github.com/ljcunha/testesqlserver#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "tedious": "^2.6.1"
+  }
+}
